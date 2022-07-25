@@ -11,4 +11,4 @@ Mini Projects for Fun, to Learn and then Run.
 
 >Possible
 
-"Yes", "Si", "Oui","haa ji", "Houdu", "Avtundi"
+"Yes", 
