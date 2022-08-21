@@ -11,4 +11,4 @@ Mini Projects for Fun, to Learn and then Run.
 
 >Possible
 
-"Yes"!!..."Si".."Goal"..."GitHub Skyline is the darker  Secret"
+"Yes"!!.."Goal"..."GitHub Skyline is the darker  Secret"
