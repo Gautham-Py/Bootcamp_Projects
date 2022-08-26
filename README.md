@@ -11,4 +11,4 @@ Mini Projects for Fun, to Learn and then Run.
 
 >Possible
 
-"Yes"!!..."Puppy-Love_?_Day to Go"..."Goal"..."GitHub Skyline is the better Secret"
+"Yes"!!..."Puppy-Sunday?_Day to Go"..."Goal"..."GitHub Skyline is the better Secret"
