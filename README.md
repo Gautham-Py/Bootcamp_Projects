@@ -11,4 +11,4 @@ Mini Projects for Fun, to Learn and then Run.
 
 >Possible
 
-"Yes"!!..."Puppy-Patience?"..."Goal"..."GitHub Skyline is the better Secret"
+"Yes"!!..."Puppy-Info?"..."Goal"..."GitHub Skyline is the better Secret"
