@@ -2,7 +2,7 @@
 Mini Projects for Fun, to Learn and then Run.
 
 > Goal
-* Understand and analyze the functioning of a complete code sequence, tailored to perform a particular task(Lang:Pyth.
+* Understand and analyze the functioning of a complete code sequence, tailored to perform a particular task(Lang:Python).
 
 > Source
 * Bootcamps(Udemy, Coursera,DataCamp, Educative......
