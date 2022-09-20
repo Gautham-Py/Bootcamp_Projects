@@ -11,4 +11,4 @@ Mini Projects for Fun, to Learn and then Run.
 
 >Possible
 
-.."Learning-skill"..."Goal"..."Committment"..."Positivity"..."parthux
+.."Learning-skill"..."Goal"..."Committment"..."Positivity"...
