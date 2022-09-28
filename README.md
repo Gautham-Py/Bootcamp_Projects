@@ -15,11 +15,3 @@ Mini Projects for Fun, to Learn and then Run.
 .."Learning-skill"..."Goal"..."Committment"..."Positivity".....
 ...
 ..
-.
-.
-.
-.
-.
-.
-.
-.
