@@ -1,4 +1,4 @@
-LBootcamp_Projects:
+ootcamp_Projects:
 
 Mini Projects for Fun, to Learn and then Run.
 
