@@ -6,7 +6,7 @@ The Game in itself is quite elaborate and self-explanatory.
     it will change the value according to player's choice of number. 
 
 
-*** Future Work ***
+*** Future Work ****
 
 1. The code is a basic version for playing the game in python.
     There are advanced versions available(you can google them{ hint: "pygame"})
