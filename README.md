@@ -10,6 +10,6 @@ Mini Projects for Fun, to Learn and then Run.
 * Books(Al_Sweigart.
 * Sites(LinkedIn, towardsDataScience, geeksforgeeks, programiz, techvidvan, Medium....
 
->Possible
+>Possible:
 
 .."Learning-skill"..."Goal"..."Committment"..."Positivity"......
