@@ -1,6 +1,10 @@
 Do it for fun	!
 
+<<<<<<< HEAD
 One
 
 two
 theww foru
+=======
+One
+>>>>>>> 05feeceab57dadbbc73688057215f851eb0b4cf0
