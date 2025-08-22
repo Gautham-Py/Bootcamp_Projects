@@ -3,7 +3,7 @@ The Game in itself is quite elaborate and self-explanatory.
     The board Layout is made using dictionary 
     in which keys will be the location(i.e : top-left,mid-right,etc.)
     and initialliy it's values will be empty space and then after every move 
-    it will change the value according to player's choice of number. 
+    it will change the value according to player's choosen number. 
 
 
 **** Future Work ****
