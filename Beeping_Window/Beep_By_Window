@@ -1,0 +1,9 @@
+### To Make a Beep Sound
+
+import winsound
+frequency = 2500  # Set Frequency To 2500 Hertz
+duration = 1500  # Set Duration To 1000 ms == 1 second
+
+
+### The winsound.Beep() can be used wherever you want the beep to occur.
+winsound.Beep(frequency, duration)
