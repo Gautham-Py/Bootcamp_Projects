@@ -15,5 +15,5 @@ The game will automatically reset after a short time, or you can press Clear to 
 
 * Works completely offline
 * No installation required
-* Just open the file and play          
+* Just open the file and play       
 
