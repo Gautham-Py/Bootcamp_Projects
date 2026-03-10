@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>F.L.A.M.E.S</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="main-wrapper">
+    <div class="card">
+
+        <h1 class="title">F.L.A.M.E.S</h1>
+
+        <div class="input-section">
+            <div class="input-wrapper">
+                <input type="text" id="name1" placeholder="First Name">
+                <span class="heart-caret">❤</span>
+            </div>
+
+            <div class="input-wrapper">
+                <input type="text" id="name2" placeholder="Second Name">
+                <span class="heart-caret">❤</span>
+            </div>
+        </div>
+
+        <div class="action-section">
+            <button id="flamesBtn" disabled>FLAMES</button>
+
+            <div id="processing" class="hidden">
+                <p>FLAMES in Action<span class="dots"></span></p>
+            </div>
+
+            <div id="resultContainer" class="hidden">
+                <p class="whisper">The flames whisper…</p>
+                <h2 id="resultText"></h2>
+            </div>
+        </div>
+
+        <div class="clear-section">
+            <button id="clearBtn" class="hidden">Clear</button>
+            <p id="warningText" class="hidden warning">The smoke is settling…</p>
+        </div>
+
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
